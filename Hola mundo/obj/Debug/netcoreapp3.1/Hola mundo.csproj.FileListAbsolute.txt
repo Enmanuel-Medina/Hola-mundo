@@ -1,0 +1,13 @@
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\bin\Debug\netcoreapp3.1\Hola mundo.exe
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\bin\Debug\netcoreapp3.1\Hola mundo.deps.json
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\bin\Debug\netcoreapp3.1\Hola mundo.runtimeconfig.json
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\bin\Debug\netcoreapp3.1\Hola mundo.runtimeconfig.dev.json
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\bin\Debug\netcoreapp3.1\Hola mundo.dll
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\bin\Debug\netcoreapp3.1\Hola mundo.pdb
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\obj\Debug\netcoreapp3.1\Hola mundo.csprojAssemblyReference.cache
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\obj\Debug\netcoreapp3.1\Hola mundo.csproj.CoreCompileInputs.cache
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\obj\Debug\netcoreapp3.1\Hola mundo.AssemblyInfoInputs.cache
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\obj\Debug\netcoreapp3.1\Hola mundo.AssemblyInfo.cs
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\obj\Debug\netcoreapp3.1\Hola mundo.dll
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\obj\Debug\netcoreapp3.1\Hola mundo.pdb
+C:\Users\Nurias\Desktop\Enmanuel Aplicada\Hola mundo\Hola mundo\obj\Debug\netcoreapp3.1\Hola mundo.genruntimeconfig.cache
